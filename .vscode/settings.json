@@ -1,13 +1,14 @@
 {
   "files.exclude": {
-    ".devenv": false,
-    ".devenv*": false,
-    ".direnv": false,
-    "node_modules": false,
-    ".envrc": false,
-    ".gitignore": false,
-    "*.lock": false,
-    "nuxt.config.ts": false,
-    "tsconfig.json": false
+    ".devenv": true,
+    ".devenv*": true,
+    ".direnv": true,
+    "node_modules": true,
+    ".envrc": true,
+    ".gitignore": true,
+    "*.lock": true,
+    "nuxt.config.ts": true,
+    "tsconfig.json": true,
+    ".nuxt": true
   }
 }
